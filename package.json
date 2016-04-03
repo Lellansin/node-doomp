@@ -1,0 +1,24 @@
+{
+  "name": "doomp",
+  "version": "0.1.0",
+  "description": "A alarm voice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lellansin/node-doomp.git"
+  },
+  "keywords": [
+    "doomp",
+    "voice",
+    "alarm"
+  ],
+  "author": "lellansin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lellansin/node-doomp/issues"
+  },
+  "homepage": "https://github.com/Lellansin/node-doomp#readme"
+}

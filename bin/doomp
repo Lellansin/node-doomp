@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var doomp = require('..')
+
+doomp(process.argv[2] || 1)
