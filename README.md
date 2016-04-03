@@ -31,4 +31,6 @@ PS: max count is 5.
 
 Using
 
-    sh some_time_script.sh && doomp 3
+```shell
+sh some_time_script.sh && doomp 3
+```
